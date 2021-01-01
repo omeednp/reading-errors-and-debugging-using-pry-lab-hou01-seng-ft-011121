@@ -14,5 +14,5 @@ def play_game(player1, player2)
   puts 'Hello'
 end
 
-start_game()
-play_game
+start_game(player1, player2)
+play_game(player1, player2)
