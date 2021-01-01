@@ -7,8 +7,3 @@ end
 def play_game(string player1, string player2)
   puts "#{player1} is better than #{player2}"
 end
-
-def runner
-  start_game(player1, player2)
-  play_game(player1, player2)
-end
